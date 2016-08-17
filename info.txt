@@ -1,1 +1,8 @@
 
+ID ứng dụng: ca-app-pub-7611864067586460~2311748832
+
+ Tên đơn vị quảng cáo: Banner
+ID đơn vị quảng cáo: ca-app-pub-7611864067586460/3788482036 
+
+ Tên đơn vị quảng cáo: FullScreen
+ID đơn vị quảng cáo: ca-app-pub-7611864067586460/8218681633 
