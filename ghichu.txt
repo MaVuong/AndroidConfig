@@ -10,3 +10,6 @@ adb install -r
 com.AddictingStudioGame.SliderMoveUp
 
 
+830935287954
+
+CgkIkpHpvJcYEAIQBg
