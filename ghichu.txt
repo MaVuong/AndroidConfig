@@ -7,6 +7,6 @@ keytool -exportcert -alias mykey -keystore swinggame.keystore -list -v
 
 adb install -r
 
-sudo BUILD=release SIGNING_PUBKEY=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjfADQilFO4ZdAnw65vvwqhpcdZY2jm1uFyvHH0NJfL9268BWmT+pmRAbvod0LFAJaPJSr1zvqWX2lLqFVSI+WK0Tfs/H7DchtTc8B4m5Qg2hUR0oexIiG8hLjqmNKSLGDPUiy+k4j0PNrl0dlBc6Y1Feq0YsLK/D2vHRiwMW12UEmiEbu2zADiOdXditPOgJg+j3isFWQOfKzgHHmCUokIK6F6oaHZylAbGP089WcOMBfo5PE1gbSYoXBixxnpvVfSLHmlRFL/aodIp863Q1SuVRhDR0HSZFpWhXnajzbdvAxjt7odYrD3+q/Jx0FGlLRU13UmRKl2FwAfimBpjlgQIDAQAB ANDROID_KEYSTORE=/Volumes/Work/GameReskin/AndroidApportable/SpiderSquareTowerClimb.spritebuilder/swinggame.keystore ANDROID_KEY_NAME=mykey ANDROID_KEYSTORE_PASS=abc123 apportable build TARGET_ARCH_ABIS="(armeabi&armv7a-neon&armv7a&x86&armv7)"
+com.AddictingStudioGame.SliderMoveUp
 
 
